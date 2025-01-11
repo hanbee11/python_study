@@ -1,0 +1,142 @@
+
+# print("hello!")
+
+
+
+import random
+a=random.randint(1,50)
+if a>20:
+    print("Super Shai")
+else:
+    print("Stellar Shai")
+
+
+import random
+b=random.randint(0,4)
+players=["Shai","Jokic","Giannis", "Wemby", "Tatum"]
+print(players[b])
+
+
+
+# netcode=----- p2p -making an individual's servor becomes a servor
+#               dedicated---------a company's servor is equipped
+c=2
+d=2
+print(c**d)
+print(c%d)      #몫
+print(c//d)    # 나머지
+print(c/d)     #나누기
+
+# a=a+1 == a+=1
+ㅁ=1
+print(ㅁ)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
